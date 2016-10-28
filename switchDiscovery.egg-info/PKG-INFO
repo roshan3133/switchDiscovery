@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: switchDiscovery
+Version: 1.2.0.dev1
+Summary: CISCO Switch Devices Discovery tool
+Home-page: UNKNOWN
+Author: Aniket Gole
+Author-email: roshan3133@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: Cisco Switch information Discovery
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
