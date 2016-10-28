@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='switchDiscovery',
-   version='1.2.0.dev1',
+   version='1.2.1.dev1',
    description='CISCO Switch Devices Discovery tool',
    author='Aniket Gole',
    author_email='roshan3133@gmail.com',

@@ -1,3 +1,4 @@
+README.rst
 setup.py
 switchDiscovery/__init__.py
 switchDiscovery/logger.py
@@ -5,6 +6,6 @@ switchDiscovery/switchDiscovery.py
 switchDiscovery.egg-info/PKG-INFO
 switchDiscovery.egg-info/SOURCES.txt
 switchDiscovery.egg-info/dependency_links.txt
-switchDiscovery.egg-info/not-zip-safe
 switchDiscovery.egg-info/requires.txt
 switchDiscovery.egg-info/top_level.txt
+switchDiscovery.egg-info/zip-safe

@@ -2,6 +2,7 @@
 
 ###########################################
 #Author : Aniket Gole
+#Email: roshan3133@gmail.com
 # This Script will discover Cisco switch information from IP or Subnet address.
 # It needs atlease one ip address/subnet, username, password at execution time. 
 ############################################
