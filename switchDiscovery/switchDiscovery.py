@@ -14,7 +14,9 @@ import sys
 import socket
 import argparse
 from logger import log as logger
+import time
 
+date = time.strftime("%d-%m-%Y")
 # Make ssh connection on any ssh based remote device.
 def ssh_conn(ip, user, passwd, cmd):
     ssh = paramiko.SSHClient()
@@ -183,7 +185,8 @@ if __name__ == "__main__":
   user = args.Username[0]
   print user
   passwd = getpass.getpass()
-  fout = open("output", "a")
+  outfile = ("Output" + date)
+  fout = open(outfile, "a")
   if args.Subnet or args.SubnetFile:
     for sub in subnets:
       sub = sub.strip()
